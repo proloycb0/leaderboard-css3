@@ -198,7 +198,7 @@ hr {
 @media only screen and (max-width: 668px){
     .nav-bar {
         max-width: 100%;
-        padding: 0 10px;
+        
     }
     .nav-bar .menu ul li {
         margin-right: 10px;
